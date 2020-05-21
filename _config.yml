@@ -1,11 +1,11 @@
 # Site settings
-author: Agi Letkiewicz
-title: 
+author: Agi
+title: Lifelong learning
 header-img: img/home-bg.png
 email: a.letkiewicz@gmail.com
-copyright_name: Agi Letkiewicz
+copyright_name: Agi
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Adding coding to my toolkit
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  agiletkiewicz
