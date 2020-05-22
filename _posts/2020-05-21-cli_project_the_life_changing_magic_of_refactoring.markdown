@@ -200,6 +200,7 @@ Brand class
 When scraping for the attributes of brands, the text needed some formatting. Originally, I wrote that code in my `CLI` method `#print_brand`. 
 
 I thought that this was not very readable, and also shouldn't be the responsibility of the `CLI` class. So I wrote custom getter methods in the `Brand` class instead. 
+
 <br>
 
 Original code:
