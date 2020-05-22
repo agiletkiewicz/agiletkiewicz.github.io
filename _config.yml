@@ -1,11 +1,11 @@
 # Site settings
 author: Agi
-title: Agi's blog
+title: Striving for elegance
 header-img: img/home-bg.png
 email: a.letkiewicz@gmail.com
 copyright_name: Agi
 description: > # this means to ignore newlines until "baseurl:"
-  A software engineering bootcamp journey
+  A journey in learning to code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  agiletkiewicz
