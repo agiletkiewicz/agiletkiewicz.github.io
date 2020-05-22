@@ -34,14 +34,14 @@ Where we have 100s of lines of code that could have been simplified to 10, what 
 
 Turns out, getting a project done quickly is all fun and games until everything starts breaking. 
 
-<br><br>
+<br>
 
 
 ![](https://media.giphy.com/media/wz8OwIImMOaOc/giphy.gif)
 
 
 
-<br><br>
+<br>
 
 
 
