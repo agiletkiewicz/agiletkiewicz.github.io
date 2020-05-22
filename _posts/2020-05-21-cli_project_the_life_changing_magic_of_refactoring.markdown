@@ -94,7 +94,7 @@ I am very excited about the fundamentals that I learned so far, and I look forwa
 **Made the Brand class more flexible**
 <br>
 
-I have a `Brand` class responsible for creating and storing instances of ethical activewear brands. At first, I had a single method (`#create_from_page`) creating a new instance of the `Brand` class and using css selectors to find information to assign corresponding attributes. 
+I have a `Brand` class responsible for creating and storing instances of ethical activewear brands. At first, I had a single method (`#create_from_page`) creating a new instance of the `Brand` class and using css selectors to extract information from a Nokogiri XML element to assign corresponding attributes. 
 
 This was **not flexible**, because what if I wanted to create an instance of a Brand using a different data source? That wouldn't work. 
 
@@ -194,10 +194,10 @@ Brand class
 <br>
 
 
-**Made sure each CLI class method has only one responsibility**
+**Made sure each method in the CLI class has only one responsibility**
 
 
-When scraping for the attributes of brands, the text needed some formatting. Originally, I wrote that code in my `CLI` class method `#print_brand`. 
+When scraping for the attributes of brands, the text needed some formatting. Originally, I wrote that code in my `CLI` method `#print_brand`. 
 
 I thought that this was not very readable, and also shouldn't be the responsibility of the `CLI` class. So I wrote custom getter methods in the `Brand` class instead. 
 <br>
