@@ -19,18 +19,18 @@ Not exactly up-to-date for 2020.
 I was excited to get started, but had no idea what to expect or how much I would learn in a short time. Now at the end of the first project it is a great time to reflect. Although my CLI is very simple, to create it I have learned the basics of: Github, object-oriented-programming, defining methods and variables in my first language (Ruby), and probably most importantly how to source information from my peers and Google.  Pretty cool.
 
 
-Working on this project I began to fall in love with code, but I really lit up while refactoring at the end because it came together for me how important well written code is. I got my app working, and then I spent a few hours refactoring. The end result was code that is more readable for other programers and myself, simplier, and more flexible to grow over time. 
+Working on this project I began to fall in love with code, but I really lit up while refactoring at the end because it came together for me how important well written code is. I got my app working, and then I spent a few hours refactoring. The end result was code that is more readable, simpler, and more flexible to grow over time. 
 
-The importance of this was solified when I had a conversation with the developer at my start-up last week. Over the last year I have taken on product management, and in that time have become used to bugs popping up all over the site whose source couldn't easily be traced. And then when a bug would get fixed, another unrelated one would pop up as a result. I thought this was normal, and to extent it is (tech is going to break sometimes), but in our conversation I found out how over engineered our code base is. **These are the principles we violated at the beginning:**
+The importance of this was solidified when I had a conversation with the developer at my start-up last week. Over the last year I have taken on product management, and in that time have become used to bugs popping up all over the site whose source couldn't easily be traced. And then when a bug would get fixed, another unrelated one would pop up as a result. I thought this was normal, and to extent it is (tech is going to break sometimes), but in our conversation I found out how over engineered our code base is. **These are the principles we violated at the beginning:**
 <br>
 
 ### DRY (Don't repeat yourself): 
-Because we have code that is duplicated, even small changes cause a big headache. I was quite amused when I found out in researching more about this that the opposite could be called WET: "write every time" or, perhaps more acurately, "waste everyone's time". I think it was one of those "it's funny because it's true" moments.
+Because we have code that is duplicated, even small changes cause a big headache. I was quite amused when I found out in researching more about this that the opposite could be called WET: "write every time" or, perhaps more accurately, "waste everyone's time". I think it was one of those "it's funny because it's true" moments.
 
 ### Abstraction:
 Where we have 100s of lines of code that could have been simplified to 10, what the code is actually trying to do is not easily understood. This makes our code base complicated to debug, and frustrating to build on. Ultimately costing more than just building it better to start with.
 
-<br><br>
+<br>
 
 Turns out, getting a project done quickly is all fun and games until everything starts breaking. 
 
@@ -45,10 +45,11 @@ Turns out, getting a project done quickly is all fun and games until everything 
 
 
 
-I found this great definition of refactoring on a [Medium post](https://medium.com/madhash/are-you-writing-too-much-code-fb4a9605375):
+I found this definition I like on a [Medium post](https://medium.com/madhash/are-you-writing-too-much-code-fb4a9605375):
 
 
-> Refactoring is the act and process of restructuring code to meet the growth of the codebase and maintain the long term stability of cohesive executions.> 
+> Refactoring is the act and process of restructuring code to meet the growth of the codebase and maintain the long term stability of cohesive executions. 
+> 
 <br>
 
 <br><br>
@@ -60,7 +61,7 @@ I found this great definition of refactoring on a [Medium post](https://medium.c
 <br>
 
 
-I look forward to getting feedback on my first project and learning how I can make my code even more elegant. In the future, whether I am looking at my own code, working on a team, or managing a developer, my focus is going to be on **code that is readable, abstract, and closed for modificaiton but open for extension.**
+I look forward to getting feedback on my first project and learning how I can make my code even more elegant. In the future, whether I am looking at my own code, working on a team, or managing a developer, my focus is going to be on **code that is readable, abstract, and closed for modification but open for extension.**
 
 
 <br>
@@ -97,7 +98,7 @@ I have a `Brand` class responsible for creating and storing instances of ethical
 
 This was **not flexible**, because what if I wanted to create an instance of a Brand using a different data source? That wouldn't work. 
 
-Also, this method **did not follow the single-responsibilty principle** because it was doing more than one job. 
+Also, this method **did not follow the single-responsibility principle** because it was doing more than one job. 
 
 
 I refactored the code so that I can instantiate the Brand class with an attribute hash. That way, I can get the data from anywhere and if the attributes vary, the method won't break. I also wrote a `#create method` that wraps `.new` to not only instantiate with a hash of attributes, but also stores the new instance. 
