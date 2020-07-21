@@ -6,9 +6,8 @@ permalink:  sinatra_project_useful_links_for_beginners
 ---
 
 
-
-Working on my Sinatra project was the first time that I got to flex my Google skills in the context of development. 
-<br><br>
+**Working on my Sinatra project was the first time that I got to flex my Google skills in the context of development.** 
+<br>
 
 My first couple weeks learning code I took pages of notes, conflating memorizing syntax with learning how to be a software engineer. I quickly realised that I what I should be learning is not syntax, but rather concepts, how to think like a developer and how to find answers from credible sources. 
 <br>
@@ -17,8 +16,8 @@ I can relate. When I from working at a large corporation to running a start-up, 
 <br>
 One thing I learned at that time was what is really means to be curious. I learned how to identify credible sources, ask my network for help when I couldn't find one, and learn through trial and error. I see the same skills as key to being a successful software engineer. 
 
-<br><br>
-I have compilled the most useful links that I used in building my Sinatra project in hopes that a future student finds it useful when building their project. 
+<br>
+**I have compilled the most useful links that I used in building my Sinatra project in hopes that a future student finds it useful when building their project. **
 <br><br>
 
 
