@@ -17,12 +17,12 @@ I can relate. When I from working at a large corporation to running a start-up, 
 One thing I learned at that time was what is really means to be curious. I learned how to identify credible sources, ask my network for help when I couldn't find one, and learn through trial and error. I see the same skills as key to being a successful software engineer. 
 
 <br>
-**I have compilled the most useful links that I used in building my Sinatra project in hopes that a future student finds it useful when building their project. **
+**I have compilled the most useful links that I used in building my Sinatra project in hopes that a future student finds it useful when building their project.**
 <br><br>
 
 
 
-<h2> <a href"https://css-tricks.com/snippets/css/a-guide-to-flexbox/"> CSS flexbox tutorial </a> </h2>
+<h2> <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/"> CSS flexbox tutorial </a> </h2>
 
 
 I got really stuck on CSS styling, and finally landed on a flexbox layout to show both my book index and user index. This is a good wak through of the potential properties. 
@@ -33,7 +33,7 @@ I got really stuck on CSS styling, and finally landed on a flexbox layout to sho
 I ran into a problem using shotgun, getting an error that port 9393 was in use. This post helped me resolve that problem.
 
 
-<h2> a href="https://guides.rubyonrails.org/association_basics.html"> Ruby docs for Active Record associations </a></h2>
+<h2> <a href="https://guides.rubyonrails.org/association_basics.html"> Ruby docs for Active Record associations </a></h2>
 
 Not only a great bookmark to reference syntax for Active Record maros, but also features diagrams to visually represent associations. 
 
