@@ -11,6 +11,7 @@ permalink:  sinatra_project_useful_links_for_beginners
 
 
 In my first couple weeks of learning to code I took pages of notes, conflating memorizing syntax with learning how to be a software engineer. I quickly realised that I what I should be learning is not simply syntax, but rather concepts and how to find answers from credible sources. 
+
 <br>
 Thankfully, I am no stranger to searching for answers online. When I went from working at a large corporation to running a start-up, the training wheels literally came off. There were no more manuals, training sessions or rotational programs. What I did have was my own experience and intuition, the ear of a few smart partners, and a search bar. 
 
