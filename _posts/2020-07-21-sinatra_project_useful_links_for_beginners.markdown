@@ -9,12 +9,13 @@ permalink:  sinatra_project_useful_links_for_beginners
 **Working on my Sinatra project was the first time that I got to flex my Google skills in the context of development.** 
 <br>
 
-My first couple weeks learning code I took pages of notes, conflating memorizing syntax with learning how to be a software engineer. I quickly realised that I what I should be learning is not syntax, but rather concepts, how to think like a developer and how to find answers from credible sources. 
+
+In my first couple weeks of learning to code I took pages of notes, conflating memorizing syntax with learning how to be a software engineer. I quickly realised that I what I should be learning is not simply syntax, but rather concepts and how to find answers from credible sources. 
 <br>
-I can relate. When I from working at a large corporation to running a start-up, the training wheels literally came off. There were no more manuals, training sessions or rotational programs. But what I did have was my own experience and intuition, the ear of a few smart partners, and a search bar. 
+Thankfully, I am no stranger to searching for answers online. When I went from working at a large corporation to running a start-up, the training wheels literally came off. There were no more manuals, training sessions or rotational programs. What I did have was my own experience and intuition, the ear of a few smart partners, and a search bar. 
 
 <br>
-One thing I learned at that time was what is really means to be curious. I learned how to identify credible sources, ask my network for help when I couldn't find one, and learn through trial and error. I see the same skills as key to being a successful software engineer. 
+One thing I learned at that time is what is really means to be curious. I learned how to identify credible sourcesfor information, ask my network for help when I couldn't find one, and find the right way to do something through trial and error. I see the same skills as key to being a successful software engineer. 
 
 <br>
 **I have compilled the most useful links that I used in building my Sinatra project in hopes that a future student finds it useful when building their project.**
