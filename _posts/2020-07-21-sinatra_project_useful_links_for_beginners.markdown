@@ -16,7 +16,7 @@ In my first couple weeks of learning to code I took pages of notes, conflating m
 Thankfully, I am no stranger to searching for answers online. When I went from working at a large corporation to running a start-up, the training wheels literally came off. There were no more manuals, training sessions or rotational programs. What I did have was my own experience and intuition, the ear of a few smart partners, and a search bar. 
 
 <br>
-One thing I learned at that time is what is really means to be curious. I learned how to identify credible sourcesfor information, ask my network for help when I couldn't find one, and find the right way to do something through trial and error. I see the same skills as key to being a successful software engineer. 
+One thing I learned at that time is what is really means to be curious. I learned how to identify credible sources of information, ask my network for help when I couldn't find one, and find the right way to do something through trial and error. I see the same skills as key to being a successful software engineer. 
 
 <br>
 **I have compilled the most useful links that I used in building my Sinatra project in hopes that a future student finds it useful when building their project.**
