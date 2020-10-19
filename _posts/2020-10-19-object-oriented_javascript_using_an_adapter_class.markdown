@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Object-Oriented JavaScript: using an adapter class"
-date:       2020-10-19 16:41:24 +0000
+date:       2020-10-19 12:41:24 -0400
 permalink:  object-oriented_javascript_using_an_adapter_class
 ---
 
@@ -20,7 +20,7 @@ A quick snippet from MDN web docs on what object-oriented programming is:
 
 Coming from the world of Ruby on Rails I was very used to thinking about using OOP to model real world ideas, like goals and tasks. In my JavaScript project I challenged myself to think more about the latter half of MDN’s definition: what functionality would be useful to encapsulate inside of an object package, making it easier to access in my single-page application?
 
-**One of the ways that I did that was to leverage an Adapter class to handle all of the fetch requests to my Rails API backend. **
+**One of the ways that I did that was to leverage an Adapter class to handle all of the fetch requests to my Rails API backend.** 
 
 [This video](https://www.youtube.com/watch?v=seCqoRBCq9U&feature=youtu.be) got me started.
 
