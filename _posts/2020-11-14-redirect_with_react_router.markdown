@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Redirect with React Router"
-date:       2020-11-14 22:16:45 +0000
+date:       2020-11-14 17:16:45 -0500
 permalink:  redirect_with_react_router
 ---
 
@@ -11,7 +11,7 @@ Two ways to handle redirecting on a user event such as create, update and delete
 
 ## Using the History API
 
-When React Router renders a component, it passes 3 props: history, match and location. What we are interested in here is history.
+When React Router renders a component, it passes 3 props: `history`, `match` and `location`. What we are interested in here is history.
 
 The History library is keeping track of session history for React Router. The history prop comes with many methods and properties, including push which pushes a new entry onto the history stack. Find more on the React Router documentation [here](https://reactrouter.com/web/api/history).
 
@@ -128,16 +128,16 @@ This is the Route:
 
 We only have access to the history prop in components rendered by React Router. To get access to this prop in a component not rendered by React Router, we can use the withRouter higher-order component.
 
-import { withRouter } from 'react-router-dom'
+`import { withRouter } from 'react-router-dom'`
 
 Add withRouter to the component and use history.push as normal.
 
 
-## Using <Redirect /> component
+## Using `<Redirect />` component
 
-Using the <Redirect /> component is arguably more in line with the principles of React.
+Using the `<Redirect />` component is arguably more in line with the principles of React.
 
-Once you import the Redirect component from React Router, you can render the <Redirect /> component based on changes to the local state of the component in question.
+Once you import the Redirect component from React Router, you can render the `<Redirect />` component based on changes to the local state of the component in question.
 
 Here is an example from the same project:
 
@@ -175,4 +175,4 @@ export default connect(null, { deleteBoard })(RemoveBoardButton);
 
 
 ## Conclusion
-Using history.push requires less code and using. <Redirect /> follows the core principle of React (state change => re-render). Which you use is ultimately up to you.
+Using `history.push` requires less code and using. `<Redirect />` follows the core principle of React (state change => re-render). Which you use is ultimately up to you.
