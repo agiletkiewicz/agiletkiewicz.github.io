@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "Why Software Engineering"
-date:       2020-11-18 19:20:51 +0000
+date:       2020-11-18 14:20:51 -0500
 permalink:  why_software_engineering
 ---
 
 
-My career up until now has been in fashion retail, so I want to share what led me to comlete a software engineering bootcamp. 
+My career up until now has been in fashion retail, so I want to share what led me to complete a software engineering bootcamp. 
 
 I spent the earlier part of my retail career in buying and merchandising and I loved it. I chose retail and my specific discipline not because of a great love of fashion trends, but because of the intersection of business and creative that it entails; to plan for next year's inventory it is necessary to both analyse data and understand what makes a product aesthetically pleasing.
 
