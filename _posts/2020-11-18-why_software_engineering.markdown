@@ -6,18 +6,20 @@ permalink:  why_software_engineering
 ---
 
 
-My career up until now has been in fashion retail, so I want to share what led me to complete a software engineering bootcamp. 
+*Why did I pivot from a 10 year career in fashion retail to software development?*
 
-I spent the earlier part of my retail career in buying and merchandising and I loved it. I chose retail and my specific discipline not because of a great love of fashion trends, but because of the intersection of business and creative that it entails; to plan for next year's inventory it is necessary to both analyse data and understand what makes a product aesthetically pleasing.
+**In 2018 I put everything on the line to join the founding team of a seed stage startup. **
 
-As I continued in my career I became more interested in sustainability in the fashion industry. This led to me joining the founding team of online secondhand fashion company SilkRoll. I joined initially to bring my fashion merchandising expertise to the team; to develop pricing stratagies, build reports and advise on consumer trends. As time went on I also took on operations and marketing for the start-up. 
+Making this leap was driven by my passion to positively impact societal and environmental well-being through my work, specifically through innovative customer experiences. I was attracted to SilkRoll because of my interest in sustainable solutions for the fashion industry, and that the most sustainable thing we can do in fashion is use clothes that already exist. The company's model is a new take on traditional thrift shopping: instead of buying and selling with cash, users can trade their high end fashion using a point-earning system, therefore retaining greater value from past purchases. 
 
-Operations became my main focus at SilkRoll as it takes a lot to process a single secondhand garment and get it up on a website in way that both provides a great customer experience and is viable for the business. I am very proud of what we have built at SilkRoll because it allows us to bring secondhand items to customers in what feels like a full-price experience. Ultimately, if SilkRoll didn't privide a great experience customers wouldn't use it. Also, if we couldn't provide this experience quickly and efficiently, we couldn't stay alive as a business. 
+To help make this innovative business model possible I drew on all my previous experience to automate pricing, manage warehouse processes, create strategy for organic marketing and build custom reporting. But there was one piece that I was missing: the technology. 
 
-I am very passionate about expanding access to secondhand clothing as the fashion industry has a large impact on waste and greenhouse gas emissions: nearly 20% of global waste and 4% of global emissions are created by the fashion industry. Most of the impact is from manufacturing of new garments, so increasing the share of secondhand purchases is an incredibly effective way to decrease this impact. 
+**Working closely with and eventually taking over for the Head of Operations Technology, I realized that this business model (selling secondhand on the internet) would not have been possible 10 years ago. **
 
-I realised this: technology played a huge role in our operations, and therefore in creating a great customer experience and a path toward increased sustainability in the fashion industry. 
+It was the technology that we incorporated in our warehouse processes to make them continuously more efficient and effective that make the business model viable. This entirely new customer experience is available because of the technology that enables it to be possible. I found this incredibly exciting. 
 
-I became fascinated with how we used technology to make processes easier and faster. I worked closley with and eventually took over for our director of operations technology. After parting with SilkRoll, I wanted to keep using technology to solve problems and create outstanding customer experiences. That is what brought me to Flatiron School.
+**As my time with SilkRoll had to come to an end because of the pandemic, I saw it as a set up instead of a setback.**  Given my personal mission of positively impacting societal and environmental well-being through outstanding customer experiences, I realized the most impactful way to continue my mission would be to create the technology that make the most innovative, niche, exciting user experiences possible. So I signed up for an immersive engineering program.
 
-I have loved my time at Flatiron because I have learned that coding is a combination of art and science, just like retail. And just like being a fashion buyer, I can bring an exciting customer experience to life. I can't wait to see what customer experience I get to create next.
+It's not a surprise how much I enjoyed my time at Flatiron School studying software engineering. Both my parents are engineers and I used to borrow my mom's CSS textbook when she was in grad school so that I could code custom LiveJournal and MySpace pages. Although I didn't foster that curiosity until recently, what drew me to retail was the combination of art and science that it takes to be an outstanding retailer. It's that same mix of art and science that makes me love coding today. It doesn't hurt that my love of problem solving makes me enjoy debugging.
+
+**At the time I am writing this in November 2020 I have just graduated from Flatiron's program and the need for inclusive products centered around well-being is more evident than ever. I am honored to be in a position to contribute.**
